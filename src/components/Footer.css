@@ -1,0 +1,11 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+}
+
+.footer p {
+  width: fit-content;
+  color: white;
+  font-weight: 600;
+}

@@ -1,0 +1,17 @@
+.App {
+  background: linear-gradient(45deg, #fe6b8b 30%, #ff8e53 90%);
+  height: fit-content;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 20px;
+}

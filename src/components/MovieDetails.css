@@ -1,0 +1,12 @@
+.movie-details {
+  height: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.movie-details button {
+  margin: 20px;
+  height: 50px;
+}

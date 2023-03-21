@@ -1,0 +1,31 @@
+input {
+  padding: 10px;
+  margin: 10px;
+  background-color: black;
+  border-radius: 2rem;
+  border: black;
+  color: white;
+  width: 300px;
+  text-align: center;
+}
+
+.small-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.small-container * {
+  margin-left: 55px;
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+}
+
+.input-container input {
+  width: 30px;
+  height: 20px;
+}

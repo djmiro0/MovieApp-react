@@ -1,0 +1,15 @@
+.About h2 {
+  color: #333;
+  font-size: 1.5em;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+  text-align: justify;
+  height: 100%;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.About {
+  height: 75vh;
+}
