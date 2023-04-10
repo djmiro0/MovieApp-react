@@ -25,4 +25,6 @@ nav p:hover {
 
 nav h1 {
   font-family: monospace;
+  font-style: italic;
+  color: white;
 }
